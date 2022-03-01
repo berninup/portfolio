@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <div>
+    <div style={{color:"black"}}>
       Image by <a href="https://lorenzoherrera.com/">Lorenzo Herrera</a>
     </div>
   );

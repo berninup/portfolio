@@ -20,3 +20,37 @@ body {
   color: #FF05AD !important;
 }
 
+.navHome {
+  animation : fadeInTopLeft;
+  animation-duration: 2s;
+  
+}
+
+.navAbout {
+  animation: zoomIn;
+  animation-duration: 2s;
+}
+
+.navContact {
+  animation: rubberBand;
+  animation-duration: 2s;
+}
+
+.navProjects {
+  animation: zoomInRight;
+  animation-duration: 4s;
+  animation-timing-function: ease-in;
+}
+
+.card-img {
+  height: 400px;
+}
+
+.card {
+  padding: 5px;
+}
+
+.container {
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}

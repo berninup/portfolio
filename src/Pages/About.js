@@ -4,7 +4,7 @@ function About() {
   return (
     <Container
       className="text-center"
-      style={{ width: "35%", marginTop: "5%" }}
+      style={{ width: "50%", marginTop: "5%" }}
     >
       <Card>
         <Card.Body>

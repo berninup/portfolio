@@ -28,13 +28,14 @@ function TextBox() {
               }}
               onInit={(typewriter) =>
                 typewriter
-                  .typeString("Welcome Adventurer")
+                  .pauseFor(2500)
+                  .typeString(`Welcome To My Page<br/>`)
                   .pauseFor(2500)
                   .typeString(
-                    `<br/>I see you seek a <strong>Mighty Developer</strong>.<br/>`
+                    ` It's still a mess here, so watch out.<br/>`
                   )
                   .pauseFor(1000)
-                  .typeString(`Look above if you wish to learn more.`)
+                  .typeString(`You should find links somewhere above.`)
                   .stop()
                   .start()
                   

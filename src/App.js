@@ -1,4 +1,5 @@
 import "./App.css";
+import 'animate.css'
 import NavBar from "./Components/NavBar";
 import TextBox from "./Components/TextBox";
 import Footer from "./Components/Footer";
