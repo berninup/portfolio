@@ -1,10 +1,7 @@
 import { Card, Container, Image, Nav } from "react-bootstrap";
 
 function NavBar() {
-  const navStyle = {
-    display: "flex",
-    justifyContent: "space-around",
-  };
+  
 
   return (
     <Nav className="fs-5 justify-content-center">

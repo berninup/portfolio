@@ -32,7 +32,7 @@ function TextBox() {
                   .typeString(`Welcome To My Page<br/>`)
                   .pauseFor(2500)
                   .typeString(
-                    ` It's still a mess here, so watch out.<br/>`
+                    ` I'm Chris and I build things.<br/>`
                   )
                   .pauseFor(1000)
                   .typeString(`You should find links somewhere above.`)

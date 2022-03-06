@@ -15,14 +15,22 @@ function About() {
             project, and another skill to pickup.
           </Card.Text>
           <Card.Text>Some Technologies I've picked up</Card.Text>
-          <ListGroup variant="flush">
-            <ListGroup.Item>HTML/CSS</ListGroup.Item>
-            <ListGroup.Item>Javascript/Python</ListGroup.Item>
-            <ListGroup.Item>JQuery/Ajax</ListGroup.Item>
-            <ListGroup.Item>Node/Express</ListGroup.Item>
-            <ListGroup.Item>MongoDB/Postgresql</ListGroup.Item>
-            <ListGroup.Item>React/Django</ListGroup.Item>
-          </ListGroup>
+          
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-line.svg" />
+
+
+          
         </Card.Body>
       </Card>
     </Container>

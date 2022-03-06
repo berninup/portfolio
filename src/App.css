@@ -54,3 +54,7 @@ body {
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
 }
+
+.card-body img {
+  width: 15%;
+}
