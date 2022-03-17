@@ -5,7 +5,7 @@ function Projects() {
     <div>
       <CardGroup>
         <Card border="secondary">
-          <Card.Link href="http://chris-basham.com">
+          <Card.Link href="https://poke-sprite.netlify.app/">
             <Card.Img src="https://i.imgur.com/9EncsM8.png" />
           </Card.Link>
           <Card.Body>
